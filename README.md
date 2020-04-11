@@ -3,7 +3,11 @@
 S&P 500 daily change in Q1 2020, showing the significant rise in volatilit.
 I also added a 3 days SMA, in order to monitor the osciallting trend.
 
+Q12020:
 ![Q1 daily change](https://mtlberriawsbucket.s3.us-east-2.amazonaws.com/SP500-analysis/SP500+daily+change+Q1+2020.png)
+
+Over a year:
+![1y daily change](https://mtlberriawsbucket.s3.us-east-2.amazonaws.com/SP500-analysis/SP500+daily+change+Q1+2020-2.png)
 
 ## Getting Started
 
