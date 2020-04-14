@@ -9,6 +9,10 @@ Q12020:
 Over a year:
 ![1y daily change](https://mtlberriawsbucket.s3.us-east-2.amazonaws.com/SP500-analysis/SP500+daily+change+Q1+2020-2.png)
 
+Tesla stock change over a year versus a less volatile stock such as Apple:
+![TSLAvsAAPL](https://mtlberriawsbucket.s3.us-east-2.amazonaws.com/SP500-analysis/TSLAvsAPPLover1y.png)
+
+
 ## Getting Started
 
 
